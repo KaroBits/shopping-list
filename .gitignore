@@ -1,0 +1,7 @@
+# Kompilierte Binärdateien
+*.exe
+*.dll
+
+# Logs und temporäre Dateien
+*.log
+temp/
